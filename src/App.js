@@ -34,6 +34,7 @@ function App() {
           <a href="https://www.youtube.com/watch?v=QBLbXgeXMU8&list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC&index=2&ab_channel=midudev">
             📽
           </a>
+          To continue... from minute 54:46
         </div>
       </footer>
     </div>
