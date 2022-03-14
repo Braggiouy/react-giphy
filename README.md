@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It was done, following this tutorial [MiDudev - Create an App using create-react-app](https://www.youtube.com/watch?v=QBLbXgeXMU8&list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC&index=2&ab_channel=midudev)
+
+Remember to add your own API_KEY to this project in order to use the GIPHY API.
+
 ## Available Scripts
 
 In the project directory, you can run:
